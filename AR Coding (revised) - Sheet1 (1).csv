@@ -19,7 +19,7 @@ SUBJ_ID,DATE,AGE_months,TRIAL,FILTER,QUESTION,VERBAL_SELF_screen,VERBAL_SELF,VER
 03_2-3-23,2-3-23,84,3,butterflies,How do you know that its not real?,0,0,0,1,0,1,0,0,0,0,0,0,0,0,
 03_2-3-23,2-3-23,84,4,hair,Spontaneous,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 03_2-3-23,2-3-23,84,4,hair,What do you see on the screen?,1,0,0,0,0,0,0,0,0,0,0,0,0,0,
-03-2-3-23,2-3-23,84,4,hair,Is there anything on the screen that is real?,0,1,0,0,0,0,0,0,0,0,0,0,0,0,
+03_2-3-23,2-3-23,84,4,hair,Is there anything on the screen that is real?,0,1,0,0,0,0,0,0,0,0,0,0,0,0,
 03_2-3-23,2-3-23,84,4,hair,How do you know that its real?,0,0,0,0,0,1,0,0,0,0,0,0,0,0,
 03_2-3-23,2-3-23,84,4,hair,Is there anything on the screen that is not real?,0,0,0,0,1,0,0,0,0,0,0,0,0,0,
 03_2-3-23,2-3-23,84,4,hair,How do you know that its not real?,0,0,0,0,0,1,0,0,0,0,0,0,0,1,
